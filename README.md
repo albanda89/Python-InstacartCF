@@ -23,6 +23,4 @@ This project uses Excel and Python.  Following tools/libraries was employed
  - Jupyter Notebook
  - Pandas
  - Seaborn
- - Matplotlib
- - Scipy
  - Numpy
